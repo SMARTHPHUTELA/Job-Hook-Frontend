@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@mantine/core": "^7.14.3",
+    "@mantine/hooks": "^7.14.3",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
